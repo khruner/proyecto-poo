@@ -1,0 +1,7 @@
+com\mycompany\tacotitosv2\Vistas\ingredientesView.class
+com\mycompany\tacotitosv2\Modelos\Ingrediente.class
+com\mycompany\tacotitosv2\Modelos\tipoIngrediente.class
+com\mycompany\tacotitosv2\Modelos\IngredienteDAO.class
+com\mycompany\tacotitosv2\Vistas\tipoIngredientesView$1.class
+com\mycompany\tacotitosv2\Vistas\tipoIngredientesView.class
+com\mycompany\tacotitosv2\Modelos\Conexion.class
